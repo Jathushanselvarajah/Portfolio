@@ -14,7 +14,7 @@ Bienvenue sur mon portfolio ! Ce site a été conçu pour présenter mes compét
   Découvrez mes projets récents, y compris des réalisations web interactives et des applications innovantes.
 
 - **Contact rapide** :  
-  Une section dédiée permet de me contacter facilement via un formulaire ou des liens vers mes réseaux sociaux.
+  Une section dédiée permet de me contacter facilement des liens vers mes réseaux sociaux.
 
 ## 🛠️ Technologies utilisées
 
